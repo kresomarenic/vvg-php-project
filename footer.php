@@ -1,0 +1,1 @@
+<p>2018 - Krešimir Marenić - <a href="https://github.com/kresomarenic/vvg-php-project.git"><img src="images/Git-Logo-White.png" title="Github" alt="Github"></a></p>
